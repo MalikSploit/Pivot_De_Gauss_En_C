@@ -1,4 +1,4 @@
-#Pivot De Gauss En C
+# Pivot De Gauss En C
 Programme qui résoud un systéme linéaire par la méthode du pivot de gauss.
 
 # Explication de la méthode du pivot de Gauss-Jordan
@@ -7,5 +7,5 @@ Programme qui résoud un systéme linéaire par la méthode du pivot de gauss.
 # Compilation
 gcc -o Pivot_De_Gauss Pivot_De_Gauss.c
 
-#Execution
+# Execution
 ./Pivot_De_Gauss
